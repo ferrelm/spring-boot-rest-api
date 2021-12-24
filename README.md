@@ -1,2 +1,2 @@
-# spring-boot-multiply
-First Spring Boot project: simple multiplication
+# spring-boot-rest-api
+Spring Boot project: REST API
